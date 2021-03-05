@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<settings>
+  <localRepository>local</localRepository>
+  <!--mirrors>
+    <mirror>
+      <id>central</id>
+      <name>Central Repository</name>
+      <url>https://repo.maven.apache.org/maven2</url>
+      <mirrorOf>central</mirrorOf>
+    </mirror>
+    <mirror>
+      <id>any-other</id>
+      <name>Fallback</name>
+      <url>http://fallback-fail</url>
+      <mirrorOf>external:*</mirrorOf>
+    </mirror>
+  </mirrors-->
+</settings>
